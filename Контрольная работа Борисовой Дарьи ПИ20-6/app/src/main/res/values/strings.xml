@@ -1,0 +1,90 @@
+<resources>
+    <string name="app_name">KR</string>
+    <string name="title">Переутомление (Ортостатическая проба)</string>
+    <string name="warning">Для прохождения теста необходимос иметь возможность
+    лечь на 5 минут. Время проведения теста около 10-15 минут.</string>
+    <string name="test">Тест</string>
+    <string name="birthday">День Вашего рождения:</string>
+    <string name="gender">Пол:</string>
+    <string name="_1">1. Необходимо лечь и лежать 5 минут почти без движений</string>
+    <string name="_2">2. Посчитать пульс в течение минуты</string>
+    <string name="_3">3. Введите пульс в положении лежа:</string>
+    <string name="_4">4. Встать и стоять почти без движений 5 минут</string>
+    <string name="_5">5. Посчитать пульс в течение минуты</string>
+    <string name="_6">6. Введите пульс в положении стоя:</string>
+    <string name="_7">7. Нажмите "Ввод". Тест завершен!</string>
+    <string name="enter">Ввод</string>
+    <string name="resultsTitle">Результаты теста</string>
+    <string name="warning2">Не забывайте о регулярном профессиональном медицинском осмотре!</string>
+    <string name="res1">Введенные значения соответствуют низкому уровню утомления</string>
+    <string name="res2">Введенные значения соответствуют высокому уровню утомления</string>
+
+    <string-array name="days">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>16</item>
+        <item>17</item>
+        <item>18</item>
+        <item>19</item>
+        <item>20</item>
+        <item>21</item>
+        <item>22</item>
+        <item>23</item>
+        <item>24</item>
+        <item>25</item>
+        <item>26</item>
+        <item>27</item>
+        <item>28</item>
+        <item>29</item>
+        <item>30</item>
+        <item>31</item>
+    </string-array>
+
+    <string-array name="months">
+        <item>Январь</item>
+        <item>Февраль</item>
+        <item>Март</item>
+        <item>Апрель</item>
+        <item>Май</item>
+        <item>Июнь</item>
+        <item>Июль</item>
+        <item>Август</item>
+        <item>Сентябрь</item>
+        <item>Октябрь</item>
+        <item>Ноябрь</item>
+        <item>Декабрь</item>
+    </string-array>
+
+    <string-array name="years">
+        <item>1900-1930</item>
+        <item>1931-1940</item>
+        <item>1941-1950</item>
+        <item>1951-1960</item>
+        <item>1961-1970</item>
+        <item>1971-1980</item>
+        <item>1981-1990</item>
+        <item>1991-2000</item>
+        <item>2001-2010</item>
+        <item>2011-2020</item>
+    </string-array>
+
+    <string-array name="gender">
+        <item>Мужчина</item>
+        <item>Женщина</item>
+        <item>-</item>
+    </string-array>
+
+</resources>
